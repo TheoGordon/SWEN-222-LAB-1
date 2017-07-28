@@ -1,0 +1,7 @@
+public class VersionControl {
+
+  public VersionControl(){
+    System.out.println("This is Version Control Test Mark.I");
+  }
+
+}
